@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Goblin",
+    "health": 35,
+    "atk": 8,
+    "criticalChance": 5,
+    "level": 1,
+    "experience": 20
+  },
+  {
+    "id": 2,
+    "name": "Orc Warrior",
+    "health": 60,
+    "atk": 12,
+    "criticalChance": 3,
+    "level": 1,
+    "experience": 35
+  },
+  {
+    "id": 3,
+    "name": "Dark Mage",
+    "health": 25,
+    "atk": 15,
+    "criticalChance": 10,
+    "level": 1,
+    "experience": 40
+  },
+  {
+    "id": 4,
+    "name": "Slime",
+    "health": 20,
+    "atk": 5,
+    "criticalChance": 2,
+    "level": 1,
+    "experience": 10
+  }
+]
